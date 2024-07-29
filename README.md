@@ -1,6 +1,6 @@
 # Network-Honeypot-and-Analysis
 ### Overview
-This repository contains the code and instructions to set up a network honeypot using Raspberry Pi Pico W. A honeypot is a decoy system designed to lure potential attackers and gather information about their activities.
+This repository contains the insights after setting up a network honeypot using Raspberry Pi Pico W. A honeypot is a decoy system designed to lure potential attackers and gather information about their activities.
 #### Requirements
 * Raspberry Pi Pico W
 * MicroPython firmware flashed on the Pico W
